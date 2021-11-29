@@ -20,19 +20,19 @@ De variabele kan je van 01 tot 50 instellen.
 
 ### Welke waarden horen bij welke run-ids
 #### Waarden:
-Stacked Vectors: 02 hoort bij `mlagents-learn Mover.yaml --run-id stackedVectors02`
-Stacked Vectors: 13 hoort bij `mlagents-learn Mover.yaml --run-id stackedVectors13`
-Stacked Vectors: 24 hoort bij `mlagents-learn Mover.yaml --run-id stackedVectors24`
-Stacked Vectors: 35 hoort bij `mlagents-learn Mover.yaml --run-id stackedVectors35`
-Stacked Vectors: 46 hoort bij `mlagents-learn Mover.yaml --run-id stackedVectors46`
+Stacked Vectors: 02 hoort bij `mlagents-learn Mover.yaml --run-id stackedVectors02` \n
+Stacked Vectors: 13 hoort bij `mlagents-learn Mover.yaml --run-id stackedVectors13` \n
+Stacked Vectors: 24 hoort bij `mlagents-learn Mover.yaml --run-id stackedVectors24` \n
+Stacked Vectors: 35 hoort bij `mlagents-learn Mover.yaml --run-id stackedVectors35` \n
+Stacked Vectors: 46 hoort bij `mlagents-learn Mover.yaml --run-id stackedVectors46` \n
 Deze worden uitgevoerd op 12 Environments Duplicates
 
 #### Extra waarden:
-Stacked Vectors: 02 hoort bij `mlagents-learn Mover.yaml --run-id m01`
-Stacked Vectors: 13 hoort bij `mlagents-learn Mover.yaml --run-id m02`
-Stacked Vectors: 24 hoort bij `mlagents-learn Mover.yaml --run-id m03`
-Stacked Vectors: 35 hoort bij `mlagents-learn Mover.yaml --run-id m04`
-Stacked Vectors: 46 hoort bij `mlagents-learn Mover.yaml --run-id m05`
+Stacked Vectors: 02 hoort bij `mlagents-learn Mover.yaml --run-id m01` \n
+Stacked Vectors: 13 hoort bij `mlagents-learn Mover.yaml --run-id m02` \n
+Stacked Vectors: 24 hoort bij `mlagents-learn Mover.yaml --run-id m03` \n
+Stacked Vectors: 35 hoort bij `mlagents-learn Mover.yaml --run-id m04` \n
+Stacked Vectors: 46 hoort bij `mlagents-learn Mover.yaml --run-id m05` \n
 Deze worden uitgevoerd op 1 Environment
 
 ### Screenshot van grafiek met voor elke run-id de curve met geaccumuleerde beloningen
