@@ -2,7 +2,7 @@
 
 ## Variabele volgens de Random Number Generator
 
-(image/01.png)
+(Images/01.png)
 
 - Het geheugen van de obervatievector via _Stacked Vectors_ in de _Behavior Parameters_-component
 
