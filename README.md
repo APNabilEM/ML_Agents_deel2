@@ -1,12 +1,12 @@
 # ML_Agents_deel2 - Nabil El Moussaoui
 
 ## S-nummer
-Nabil El Moussaoui
+Nabil El Moussaoui\
 S-nummer is: `s109431`
 
 ## Het willekeurig getal dat de generator genereerde
-Het willekeurig getal dat de generator genereerde is: `01`
-- Het geheugen van de obervatievector via _Stacked Vectors_ in de _Behavior Parameters_-component
+Het willekeurig getal dat de generator genereerde is: `01`\
+Het geheugen van de obervatievector via _Stacked Vectors_ in de _Behavior Parameters_-component
 
 ![Random Number Generator](Images/01.png)
 
