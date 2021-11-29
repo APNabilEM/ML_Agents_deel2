@@ -15,8 +15,7 @@ Het geheugen van de obervatievector via _Stacked Vectors_ in de _Behavior Parame
 ![Behaviour Parameters](Images/BehaviourParameters.png)
 
 ## Welke waarden heb je voor deze variabelen gekozen?
-Ik heb de waarden 02, 13, 24, 35 en 46 gekozen, omdat ze allemaal een interval hebben van 11.
-De variabele kan je van 01 tot 50 instellen.
+Ik heb de waarden 02, 13, 24, 35 en 46 gekozen, omdat ze allemaal een interval van 11 hebben en je bereikt het volledige spectrum die je kan instellen van 1 tot 50.
 
 ## Welke waarden horen bij welke run-ids?
 #### Waarden:
